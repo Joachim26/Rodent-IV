@@ -1,5 +1,5 @@
-# rodent-iv
-trying to start a community effort based on Rodent IV
+# RodentIV for Android
+This fork was modified for simply compiling Android binaries.
 
 # rodent-iv
 trying to start a community effort based on Rodent IV
