@@ -35,6 +35,8 @@ If not, see <http://www.gnu.org/licenses/>.
 
 #pragma once
 
+#define ANDROID
+
 #if (!defined(DEBUG) && !defined(NDEBUG)) || (defined(DEBUG) && defined(NDEBUG))
     #if defined(DEBUG)
         #undef DEBUG
