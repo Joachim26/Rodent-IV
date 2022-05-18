@@ -21,6 +21,8 @@ If not, see <http://www.gnu.org/licenses/>.
 #include <string>
 #include <stdarg.h>
 
+#define ANDROID
+
 #if defined(_WIN32) || defined(_WIN64)
     #include <windows.h>
     #include <wchar.h>
