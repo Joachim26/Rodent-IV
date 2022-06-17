@@ -1,8 +1,8 @@
 # RodentIV for Android
 This fork was modified for simply compiling Android binaries.
 
-# rodent-iv
-trying to start a community effort based on Rodent IV
+# Rodent-IV
+Trying to start a community effort based on Rodent IV
 
 If You add something to Rodent IV, keep in mind the following:
 
